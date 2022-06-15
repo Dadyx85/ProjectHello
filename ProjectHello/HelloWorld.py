@@ -1,3 +1,3 @@
 def get_hello():
     print('Hello world!')
-    print('Hello Denchik')
+    print('Hello Denchik!')
