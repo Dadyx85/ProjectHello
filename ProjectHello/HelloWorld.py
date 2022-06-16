@@ -4,7 +4,4 @@ def get_hello():
 
 
 def is_conserz(name):
-    if name == 'Рома':
-        return 'Yes'
-    else:
-        return 'No'
+    return 'Конечно консьерж' if name == 'рома' else 'Программист'
