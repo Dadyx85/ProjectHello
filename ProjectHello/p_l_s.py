@@ -2,7 +2,7 @@ import random
 import time
 from datetime import datetime
 
-file_path = r'F:\Python\Test\anything_1.txt'
+file_path = r'\anything_1.txt' #Вставь путь где будет создан фаил anything_1.txt
 names = ['Alex', 'Marina', 'Victor', 'Tommy', 'Anna', 'Vika', 'Nika', 'Elena', 'Tonny',
          'Mke',
          'Glebb',
