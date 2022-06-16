@@ -15,7 +15,7 @@ names = ['Alex', 'Marina', 'Victor', 'Tommy', 'Anna', 'Vika', 'Nika', 'Elena', '
          'Mikael',
          'Gevorg']
 
-while True:
+while False:
     with open(file_path, 'a+') as file_txt:
         now = datetime.now()
         name_id = random.randint(0, len(names) - 1)
