@@ -1,6 +1,6 @@
 #Дэнчик и Славка ДВД
-from HelloWorld import get_hello, is_conserz
+from get_triangle import get_triangle
 
 if __name__ == '__main__':
-    print(is_conserz(input().lower()))
+    print(get_triangle(input('Поставь какой нибудь символ: ')))
 
