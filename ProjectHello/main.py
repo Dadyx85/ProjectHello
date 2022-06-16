@@ -1,5 +1,6 @@
 #Дэнчик и Славка ДВД
-from HelloWorld import get_hello
+from HelloWorld import get_hello, is_conserz
 
 if __name__ == '__main__':
-    get_hello()
+    print(is_conserz(input()))
+
